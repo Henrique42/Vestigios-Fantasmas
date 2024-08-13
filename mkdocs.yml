@@ -1,26 +1,32 @@
-site_name: obsidian-mkdocs template
+site_name: Campanha Wiki
 
 theme:
     name: 'material'
+    # Mudar ícone
+    icon:
+      logo: material/hat-fedora
+    # Adicionar menu superior
+    features:
+      - navigation.tabs
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: indigo
+      primary: indigo
+      accent: pink
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: Mudar para o modo escuro
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: pink
-      accent: blue
+      accent: indigo
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Mudar para o modo claro
 
 # Extensions
 markdown_extensions:
@@ -61,7 +67,6 @@ plugins:
         - tags
 
 extra_javascript:
-  - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
