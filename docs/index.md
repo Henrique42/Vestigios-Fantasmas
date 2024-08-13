@@ -49,8 +49,11 @@ A ideia é que a campanha seja mais focada em mistério / investigação, então
 *Por algum motivo, talvez relacionado a memórias antigas ou um desejo de mudar de vida, você decide aceitar o convite. Agora, você se dirige a outrora famosa cidade de [[Porto Lobo]].*
 
 OBS.: 
+
 - O ideal é que os personagens tenham um motivo para terem sido escolhidos como investigadores paranormais. Não precisa estar necessariamente ligado à algum monstro;
+
 - Sem arte de IA;
+
 - Podem criar ligações entre personagens, caso contrário, será presumido que todos são desconhecidos entre si.
 
 #### Criação de Avatar
