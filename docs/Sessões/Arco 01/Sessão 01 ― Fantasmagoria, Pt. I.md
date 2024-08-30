@@ -4,19 +4,21 @@
 
 ### Participantes
 
-- Anthony - [[Rhogar]] (Barbarian)
-- Betinho - [[Marduk]] (Druid)
-- Clenildo - [[Lavenza]] (Warlock)
-- Emanoel - [[Sherlock]] (Rogue)
-- Paulo - [[Vamas]] (Cleric)
-- Saymon - [[Aenoir]] (Sorcerer)
+- Anthony - [[Rhogar]] (Barbarian);
+- Betinho - [[Marduk]] (Druid);
+- Clenildo - [[Lavenza]] (Warlock);
+- Emanoel - [[Sherlock]] (Rogue);
+- Paulo - [[Vamas]] (Cleric);
+- Saymon - [[Aenoir]] (Sorcerer).
+
+**Mestre:** Bruno.
 
 ---  
 
 ### Locais Visitados
 
 - [[Porto Lobo#Bairros|Mercado de Porto Lobo]];
-- [[Teatro Municipal de Porto Lobo]]
+- [[Teatro Municipal de Porto Lobo]].
 
 ---  
 
@@ -24,7 +26,7 @@
 
 - [[Miranda]], empregada da líder da organização misteriosa;
 - Mainha Wilma;
-- Guarda 1, filho de Mainha Wilma
+- Guarda 1, filho de Mainha Wilma.
 
 ---  
 
@@ -36,7 +38,7 @@
 
 - **O Teatro Municipal.** Após falar com Miranda, o grupo entra no teatro, onde encontramos o primeiro guarda que, ao ser questionado, disse que a mainha Wilma dele o ensinou a não se meter com essas coisas de ervas. Logo depois, nos sentamos em nossos lugares, e a peça começa.
 
-- **A Peça.** A peça conta a história do herói **Arendel** que derrotou um lobo terrível e fundou a cidade de Porto Lobo. Mas é interrompida na metade por uma figura misteriosa que tenta matar o protagonista da peça, mas é impedida pelo nosso grande, belo e incrível Rhogar. Ao perceber a presença dos nossos heróis, a figura envolta em fumaça fala para a plateia:
+- **A Peça.** A peça conta a história do herói **Arendel** que derrotou um lobo terrível e fundou a cidade de Porto Lobo. Mas é interrompida na metade por uma figura misteriosa que tenta matar o protagonista da peça, mas é impedida (autointitulado) grande, belo e incrível Rhogar. Ao perceber a presença dos nossos heróis, a figura envolta em fumaça fala para a plateia:
 
 ```
 "Por séculos nosso culto cresceu
