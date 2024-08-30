@@ -25,6 +25,8 @@ Entretanto, com a perda de relevância do país no cenário global, Porto Lobo c
 - **Licânia:** distrito residencial que é habitado pela maior parte da população de Porto Lobo;
 - **Portos Oeste e Leste:** zonas portuárias.
 
+---
+
 ### Locais Importantes
 
 - [[Teatro Municipal de Porto Lobo]].
