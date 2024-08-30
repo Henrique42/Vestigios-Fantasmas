@@ -14,9 +14,20 @@ Entretanto, com a perda de relevância do país no cenário global, Porto Lobo c
 
 ---
 
+### Bairros
+
+- **Arendel:** distrito residencial que é habitado pelos membros das classes mais altas;
+- **Distrito Comercial:** lar dos principais estabelecimentos comerciais da cidade;
+- **Distrito dos Anões:** bairro construído no passado por anões imigrantes e seus descendentes. É dotado de oficinas, forjas e mercados de minerais;
+- **Distrito dos Gnomos:** bairro construído no passado por gnomos imigrantes e seus descendentes. É dotado de lojas de flores e quinquilharias;
+- **Distrito Militar**: local onde ficam os quartéis e campos de treinamento da cidade;
+- **Favela:** área na qual vive a parte mais pobre da população de Porto Lobo;
+- **Licânia:** distrito residencial que é habitado pela maior parte da população de Porto Lobo;
+- **Portos Oeste e Leste:** zonas portuárias.
+
 ### Locais Importantes
 
-- A ser adicionado.
+- [[Teatro Municipal de Porto Lobo]].
 
 ---
 

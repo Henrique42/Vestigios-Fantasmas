@@ -40,8 +40,7 @@ Esta página serve como um guia para as diferentes espécies presentes no mundo 
 - Shifter;
 - Tiefling;
 - Tortle;
-- Triton;
-- Variant Human.
+- Triton.
 
 ---
 

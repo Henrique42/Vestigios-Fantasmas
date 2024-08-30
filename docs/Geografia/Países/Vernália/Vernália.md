@@ -19,5 +19,5 @@ Vernália é um país insular, mais conhecido por ter sido o berço de heróis d
 ### Mapa
 
 <div style="text-align: center;">
-<img src="https://i.imgur.com/2AI40xd.jpg" width="600" style="border: 1px solid black;">
+<img src="https://i.imgur.com/Fm79TQn.jpg" width="600" style="border: 1px solid black;">
 </div>

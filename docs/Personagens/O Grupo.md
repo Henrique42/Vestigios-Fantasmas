@@ -4,4 +4,9 @@ Página do grupo de protagonistas da campanha.
 
 ### Membros
 
-- A ser adicionado.
+- [[Aenoir]];
+- [[Lavenza]];
+- [[Marduk]];
+- [[Rhogar]];
+- [[Sherlock]];
+- [[Vamas]].
