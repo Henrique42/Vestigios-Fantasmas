@@ -8,6 +8,7 @@
 
 ### Informações
 
+- **Jogador:** Antônio
 - **Espécie:** Firbolg
 - **Gênero:** Masculino
 - **Ocupação:** Druid

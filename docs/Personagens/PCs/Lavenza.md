@@ -8,6 +8,7 @@
 
 ### Informações
 
+- **Jogador:** Clenildo
 - **Espécie:** Aasimar
 - **Gênero:** Feminino
 - **Classe:** Warlock (The Celestial)

@@ -8,6 +8,7 @@
 
 ### Informações
 
+- **Jogador:** Anthony
 - **Espécie:** Green Dragonborn
 - **Gênero:** Masculino
 - **Classe:** Barbarian

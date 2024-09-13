@@ -29,7 +29,10 @@ Entretanto, com a perda de relevância do país no cenário global, Porto Lobo c
 
 ### Locais Importantes
 
-- [[Teatro Municipal de Porto Lobo]].
+- [[Esgoto de Porto Lobo]];
+- [[Prisão de Porto Lobo]];
+- [[Teatro Municipal de Porto Lobo]];
+- Templo de Utana.
 
 ---
 

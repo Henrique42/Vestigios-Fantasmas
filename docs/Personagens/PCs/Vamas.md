@@ -8,6 +8,7 @@
 
 ### Informações
 
+- **Jogador:** Paulo
 - **Espécie:** ?
 - **Gênero:** Masculino
 - **Classe:** Cleric (Grave Domain)

@@ -8,6 +8,7 @@
 
 ### Informações
 
+- **Jogador:** Saymon
 - **Espécie:** High Elf
 - **Gênero:** Feminino
 - **Classe:** Sorcerer (Lunar Sorcery)

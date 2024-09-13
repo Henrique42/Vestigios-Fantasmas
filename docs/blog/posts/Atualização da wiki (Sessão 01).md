@@ -15,7 +15,7 @@ A wiki foi atualizada com o conteúdo da sessão nº 01.
 <!-- more -->
 
 - **O que há de novo?**
-	- Nova sessão: [[Sessão 01 ― Fantasmagoria, Pt. I]];
+	- Nova sessão: [[Sessão 01 ― Fantasmagoria]];
 	- Personagens dos jogadores adicionados: [[Aenoir]], [[Lavenza]], [[Marduk]], [[Rhogar]], [[Sherlock]] e [[Vamas]];
 	- NPCs adicionados: [[Miranda]] e [[Reina Velez]];
 	- Facção adicionada: [['Organização']];
