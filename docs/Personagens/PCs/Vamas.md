@@ -1,4 +1,4 @@
-**Vamas Trothil** é um clérigo que almeja atuar como investigador paranormal na [['Organização']]
+**Vamas Trothil** é um clérigo que almeja atuar como investigador paranormal na [[S.A.P.O.]]
 
 ---
 

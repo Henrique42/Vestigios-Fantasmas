@@ -30,9 +30,11 @@ Entretanto, com a perda de relevância do país no cenário global, Porto Lobo c
 ### Locais Importantes
 
 - [[Esgoto de Porto Lobo]];
+- [[Casa das Ervas]];
 - [[Prisão de Porto Lobo]];
+- [[Sede da SAPO]];
 - [[Teatro Municipal de Porto Lobo]];
-- Templo de Utana.
+- [[Templo de Utana]].
 
 ---
 

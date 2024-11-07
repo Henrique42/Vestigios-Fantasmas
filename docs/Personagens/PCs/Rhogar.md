@@ -1,4 +1,4 @@
-**Rhogar da Lagoa Verde** é um dragonborn bárbaro que almeja atuar como investigador paranormal na [['Organização']]
+**Rhogar da Lagoa Verde** é um dragonborn bárbaro que almeja atuar como investigador paranormal na [[S.A.P.O.]]
 
 ---
 

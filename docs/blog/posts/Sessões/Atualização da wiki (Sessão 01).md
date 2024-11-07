@@ -18,7 +18,7 @@ A wiki foi atualizada com o conteúdo da sessão nº 01.
 	- Nova sessão: [[Sessão 01 ― Fantasmagoria]];
 	- Personagens dos jogadores adicionados: [[Aenoir]], [[Lavenza]], [[Marduk]], [[Rhogar]], [[Sherlock]] e [[Vamas]];
 	- NPCs adicionados: [[Miranda]] e [[Reina Velez]];
-	- Facção adicionada: [['Organização']];
+	- Facção adicionada: [[S.A.P.O.]];
 	- Local adicionado: [[Teatro Municipal de Porto Lobo]];
 	- Local atualizado: [[Porto Lobo]];
 	- Parte de *homebrew* e criação de personagem movida para o blog.

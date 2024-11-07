@@ -1,4 +1,4 @@
-**Lavenza** é uma aasimar bruxa que almeja atuar como investigadora paranormal na [['Organização']]
+**Lavenza** é uma aasimar bruxa que almeja atuar como investigadora paranormal na [[S.A.P.O.]]
 
 ---
 

@@ -1,4 +1,4 @@
-**Marduk Fyendal** é um firbolg druida que almeja atuar como investigador paranormal na [['Organização']]
+**Marduk Fyendal** é um firbolg druida que almeja atuar como investigador paranormal na [[S.A.P.O.]]
 
 ---
 

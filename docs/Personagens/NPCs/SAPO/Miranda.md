@@ -1,4 +1,4 @@
-**Miranda** é uma empregada (?) na [['Organização']]
+**Miranda** é uma secretária / empregada (?) na [[S.A.P.O.]]
 
 ---
 
@@ -10,8 +10,8 @@
 
 - **Espécie:** Humana (?)
 - **Gênero:** Feminino
-- **Ocupação:** Empregada (?)
-- **Afiliação:** [['Organização']]
+- **Ocupação:** Secretária / Empregada (?)
+- **Afiliação:** [[S.A.P.O.]]
 
 ---
 

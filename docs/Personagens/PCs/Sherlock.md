@@ -1,4 +1,4 @@
-**Sherlock Gomes** é um halfling ladino que almeja atuar como investigador paranormal na [['Organização']]
+**Sherlock Gomes** é um halfling ladino que almeja atuar como investigador paranormal na [[S.A.P.O.]]
 
 ---
 

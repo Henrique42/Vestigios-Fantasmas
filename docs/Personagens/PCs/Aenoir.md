@@ -1,4 +1,4 @@
-**Aenoir do clã Argentum** é uma elfa feiticeira que almeja atuar como investigadora paranormal na [['Organização']]
+**Aenoir do clã Argentum** é uma elfa feiticeira que almeja atuar como investigadora paranormal na [[S.A.P.O.]]
 
 ---
 
