@@ -15,6 +15,6 @@
 
 ---
 
-### *Passado*
+### *Sobre*
 
-*Desconhecido.*
+- Dona Edna é a proprietária da [[Casa das Ervas]].

@@ -20,7 +20,7 @@ Os Avatares, como já explicado anteriormente, são os deuses que personificam o
 | Alcór     | Sol/Dia              | Fênix     |
 | Alnúr     | Lua/Noite            | Pégaso    |
 | Avhel     | Tempo                | Ampulheta |
-| Blair     | Justiça/Ordem        | Balança   |
+| Blair     | Justiça/Ordem        | Chicote   |
 | Capra     | Morte                | Bode      |
 | Elres     | Malandragem          | Urubu     |
 | Gazna     | Guerra               | Javelin   |
